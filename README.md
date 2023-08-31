@@ -1,2 +1,9 @@
 # ChatApp-WebSocket
-A basic Chat App that was developed using HTML ,CSS ,JS and WebSocket
+a basic Chat App that was made and developed using NodeJS, Express and WebSocket
+
+
+npm init -y
+
+npm install --save express socket. io
+
+npm install --save-dev nodemon
